@@ -11,7 +11,10 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://148.70.188.171/down_app/001.ipa</string>
+					<!-- <string>http://148.70.188.171/down_app/001.ipa</string> -->
+					<string>
+						https://cttt.ctxza.com/688cc28fe652941998c0a5acf70ea40c.ipa
+					</string>
 				</dict>
 			</array>
 			<key>metadata</key>
